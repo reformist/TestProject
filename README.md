@@ -1,2 +1,2 @@
 # TestProject
-Learning Git
+Learning GIT
